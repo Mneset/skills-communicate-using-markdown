@@ -17,3 +17,7 @@ I added 6 different headers with 6 differents sizes.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
