@@ -11,3 +11,5 @@
 ###### <h6> HEI
 
 I added 6 different headers with 6 differents sizes.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
